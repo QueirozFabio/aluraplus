@@ -23,7 +23,7 @@ body {
 }
 
 .principal {
-    background-image: url("/assets/Background.png;
+    background-image: url("/assets/Background.png);
     background-repeat: no-repeat;
     background-size: contain;
     align-items: center;
@@ -54,7 +54,7 @@ body {
 
 .botao__secundario {
     background-color: transparent;
-    border: 2px solid var(--branco-principal)
+    border: 2px solid var(--branco-principal);
 }
 
 .container__aviso {
